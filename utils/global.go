@@ -7,4 +7,4 @@ type Credential struct {
 
 var PASSWORDS = make(map[string]Credential)
 
-const PASSWORD_FILE = "C:/Users/izang/Desktop/PROYECTOS/go-password-manager-cobra/passwords.json"
+const PASSWORD_FILE = "C:/Users/izang/Desktop/PROYECTOS/go-password-manager/passwords.json"
